@@ -18,3 +18,5 @@ another account number and password. If no further use of the system is noticed 
 entire system can be shut down using the third option in the main i.e, Exit
 As the checking and savings account and the child classes of parent class account it
 allows us to use the parents class functions using dot operator.
+
+![image](https://user-images.githubusercontent.com/79542266/160455774-b63af0e3-399b-44d9-81c6-22255bc13a5c.png)
