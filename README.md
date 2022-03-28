@@ -19,8 +19,9 @@ entire system can be shut down using the third option in the main i.e, Exit
 As the checking and savings account and the child classes of parent class account it
 allows us to use the parents class functions using dot operator.
 
+<br /> 
 USER MANUAL / DESCRIPTION OF FUNCTIONS
-
+<br /> 
 1) Login –
  If a user does already have an account of any type then they can login using the
 account_number that they are provided while creation of their account.
@@ -162,7 +163,8 @@ i) Logout:
 and it exits the loop.
 ![image](https://user-images.githubusercontent.com/79542266/160457365-2c28adc9-6733-4f8d-bdc1-9f1aa336ef64.png)
 
-INDIVIDUAL CONTRIBUTIONS
+INDIVIDUAL CONTRIBUTIONS<br /> 
+<br /> 
 We both contributed to the project equally however, the part where we invested most of our time is
 mentioned below.
 YUJIAO KAN
